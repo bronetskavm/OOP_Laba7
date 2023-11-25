@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SimpleClassConsole/1.0.0": {
+        "dependencies": {
+          "SimpleClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "SimpleClassConsole.dll": {}
+        }
+      },
+      "SimpleClassLibrary/1.0.0": {
+        "runtime": {
+          "SimpleClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleClassConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SimpleClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
